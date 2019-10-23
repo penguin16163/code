@@ -1,4 +1,4 @@
-#include<cstdio>
+#include<bits/stdc++.h>
 const int N=1e6+50;
 inline void read(int &_)
 {
